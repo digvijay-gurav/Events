@@ -1,0 +1,21 @@
+.eventDetailsContainer {
+    padding: 1rem 0;
+}
+.EventDetailsCellMain {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+}
+.eventDetailsHeaderRow {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0 2rem;
+    text-align: left;
+    border-bottom: 1px dotted #efefef ;
+}
+.eventDetailsMainWrapper {
+    width: 500px;
+    padding: 1rem;
+}
